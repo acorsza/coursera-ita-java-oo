@@ -1,4 +1,4 @@
-package com.aderleifilho.itajavaoo.weekfour.test;
+package weektwo.test;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
@@ -6,9 +6,8 @@ import org.junit.runners.Suite;
 @RunWith(Suite.class)
 
 @Suite.SuiteClasses({
-	CarrinhoDeComprasTest.class,
-	ProdutoComTamanhoTest.class,
-	ProdutoTest.class
+   TesteCarrinhoDeCompras.class,
+   TestePizza.class
 })
 
 public class TestSuite {    

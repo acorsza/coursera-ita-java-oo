@@ -1,4 +1,4 @@
-package com.aderleifilho.itajavaoo.weekthree.test;
+package weekthree.test;
 import static org.junit.Assert.*;
 
 import org.junit.Test;

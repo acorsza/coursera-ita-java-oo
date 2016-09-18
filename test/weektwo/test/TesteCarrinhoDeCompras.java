@@ -1,4 +1,4 @@
-package weekthree.testes;
+package weektwo.test;
 
 import static org.junit.Assert.assertEquals;
 

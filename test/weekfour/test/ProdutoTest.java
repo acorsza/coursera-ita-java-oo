@@ -1,4 +1,4 @@
-package com.aderleifilho.itajavaoo.weekfour.test;
+package weekfour.test;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotEquals;
