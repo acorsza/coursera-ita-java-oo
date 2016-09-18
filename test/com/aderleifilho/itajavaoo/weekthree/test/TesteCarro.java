@@ -3,7 +3,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import com.aderleifilho.itajavaoo.weekthree.handson.Carro;
+import weekthree.handson.Carro;
 
 public class TesteCarro {
 

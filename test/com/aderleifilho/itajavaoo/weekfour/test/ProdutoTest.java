@@ -6,7 +6,7 @@ import static org.junit.Assert.assertNotEquals;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.aderleifilho.itajavaoo.weekfour.Produto;
+import weekfour.Produto;
 
 public class ProdutoTest {
 	
